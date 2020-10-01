@@ -1,0 +1,9 @@
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Neolabs\Source\Repos\Examp-e\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

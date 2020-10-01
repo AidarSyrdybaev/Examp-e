@@ -1,0 +1,12 @@
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\bin\Debug\netcoreapp3.1\ExcelLibrary.deps.json
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\bin\Debug\netcoreapp3.1\ExcelLibrary.dll
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.csprojAssemblyReference.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.AssemblyInfoInputs.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.AssemblyInfo.cs
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\bin\Debug\netcoreapp3.1\ExcelLibrary.pdb
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.dll
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.pdb
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Neolabs\Source\Repos\Examp-e\ExcelLibrary\obj\Debug\netcoreapp3.1\ExcelLibrary.csproj.CopyComplete
